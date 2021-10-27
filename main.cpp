@@ -41,7 +41,7 @@ int main(int argc, char *argv[]) {
                 l = l + 1;
                 v = v + 1;
             }else{
-                printf("\n");
+                printf("%s","You should use: \n\t./cmake-lab3\n\t\t-v(--version)\n\t\t-l(--list)\n\t\t-h(--help)\n");
             }
         }  
         char *list[] = {"false","false","false"};
