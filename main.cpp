@@ -46,13 +46,13 @@ int main(int argc, char *argv[]) {
         }  
         char *list[] = {"false","false","false"};
         if(v >= 2){
-            printf("Probably you tried to use -v and --version\n\n");
+            printf("Probably you tried to use two forms: -v and --version\n\n");
             list[0] = "true";
         }if(h >= 2){
-            printf("Probably you tried to use -h and --help\n\n");
+            printf("Probably you tried to use two forms: -h and --help\n\n");
             list[1] = "true";
         }if(l >= 2){
-            printf("Probably you tried to use -l and --list\n\n");
+            printf("Probably you tried to use two forms: -l and --list\n\n");
             list[2] = "true";
         }
         printf("Second used --version : %s\n", list[0]);
