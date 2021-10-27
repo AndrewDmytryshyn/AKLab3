@@ -1,3 +1,0 @@
-/home/devy/Рабочий стол/AKLab_3/AKLab3/CMakeFiles/rebuild_cache.dir
-/home/devy/Рабочий стол/AKLab_3/AKLab3/CMakeFiles/edit_cache.dir
-/home/devy/Рабочий стол/AKLab_3/AKLab3/CMakeFiles/cmake-lab3.dir
